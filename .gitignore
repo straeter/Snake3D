@@ -1,0 +1,10 @@
+.DS_Store
+*.local
+.idea
+.vscode
+venv
+env
+data/
+__pycache__
+*.log
+.memory
